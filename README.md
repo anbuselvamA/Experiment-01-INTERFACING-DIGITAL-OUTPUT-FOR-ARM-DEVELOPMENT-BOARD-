@@ -83,6 +83,7 @@ The main features of LPC2148 include the following.
 Developed by: A.Anbuselvam
 Registration No: 212222240009
 ```
+````
 #include "main.h"
 
 
@@ -218,9 +219,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
- ![WhatsApp Image 2023-08-16 at 11 56 09](https://github.com/anbuselvamA/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119559871/544adc6b-3913-4ba8-a7da-8a842ef2fa1a)
+ ![WhatsApp Image 2023-08-16 at 11 56 10](https://github.com/anbuselvamA/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119559871/07d817a2-f25f-4349-bf29-54419a992b08)
 
-![WhatsApp Image 2023-08-16 at 11 56 10](https://github.com/anbuselvamA/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119559871/95ebb6d4-cc29-41c7-a8bf-e899e34c93fd)
+![WhatsApp Image 2023-08-16 at 11 56 10](https://github.com/anbuselvamA/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119559871/c59b5b59-dbe8-4590-9cbb-b6ea3533d945)
+
 
  
  
