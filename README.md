@@ -219,10 +219,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
- ![WhatsApp Image 2023-08-16 at 11 56 10](https://github.com/anbuselvamA/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119559871/07d817a2-f25f-4349-bf29-54419a992b08)
+![WhatsApp Image 2023-08-16 at 11 56 10](https://github.com/anbuselvamA/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119559871/ef5bdad5-71b1-4e46-8ba5-77f0b529201f)
 
-![WhatsApp Image 2023-08-16 at 11 56 10](https://github.com/anbuselvamA/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119559871/c59b5b59-dbe8-4590-9cbb-b6ea3533d945)
 
+ ![WhatsApp Image 2023-08-16 at 11 56 11](https://github.com/anbuselvamA/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119559871/1d943337-0317-482f-8112-642ea2cec3d6)
 
  
  
