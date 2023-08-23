@@ -1,4 +1,3 @@
-![02b](https://github.com/anbuselvamA/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119559871/0010a14e-3e03-417c-9343-96aa0e9b6582)# Experiment-01-INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
  
 
 ## Aim: To Interface a Digital output (LED) to ARM development board and write a blink code 
@@ -219,8 +218,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
+![01a](https://github.com/anbuselvamA/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119559871/314db7e4-f75c-497c-b714-f75978d14512)
 
-![01a](https://github.com/anbuselvamA/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119559871/59e707fd-38dc-4ff1-acf4-7ea7d0bddb4e)
 
 
 ![01b](https://github.com/anbuselvamA/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119559871/45410ba7-0081-4822-b8d3-37c578601458)
