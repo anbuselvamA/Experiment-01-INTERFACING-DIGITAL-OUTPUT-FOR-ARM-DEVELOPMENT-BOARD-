@@ -82,7 +82,7 @@ The main features of LPC2148 include the following.
 Developed by: A.Anbuselvam
 Registration No: 212222240009
 ```
-````
+```
 #include "main.h"
 
 
