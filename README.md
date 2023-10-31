@@ -73,7 +73,7 @@ The main features of LPC2148 include the following.
 
 
 12. connect the stm nucleo board and click on run 
-<img src ="https://user-images.githubusercontent.com/36288975/226189649-b5dff389-91df-4eca-b84a-1127c6562637.png" width=450 height=450>
+<img src="https://user-images.githubusercontent.com/36288975/226189649-b5dff389-91df-4eca-b84a-1127c6562637.png" width=450 height=450>
 
 
 
