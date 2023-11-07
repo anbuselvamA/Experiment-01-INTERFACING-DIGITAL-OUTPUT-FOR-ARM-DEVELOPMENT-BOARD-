@@ -217,14 +217,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif 
 ```
-
-
-
 ## Output  :
 ![01a](https://github.com/anbuselvamA/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119559871/314db7e4-f75c-497c-b714-f75978d14512)
-
-
-
 ![01b](https://github.com/anbuselvamA/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119559871/45410ba7-0081-4822-b8d3-37c578601458)
 
  
