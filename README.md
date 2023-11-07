@@ -216,7 +216,7 @@ void assert_failed(uint8_t *file, uint32_t line)
   
 }
 #endif 
-```
+
 ## Output  :
 photo 1:
 ![image](https://github.com/anbuselvamA/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119559871/3d3a874a-a07d-4d2d-9fa4-ccf6dcc3d432)
